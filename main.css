@@ -1,0 +1,33 @@
+body{
+    margin: 0
+}
+
+.navbar{ 
+
+      background-color: blue;
+      color: black;
+      padding: 20px;
+}
+li{
+    display: inline-block;
+    padding-right: 5vw ;
+}   
+
+.banner{
+    background-image: url("imagens/baixados.jfif");
+    height:800px
+}
+.content{ 
+    padding: 50px;
+}
+.galeria{
+    padding: 50px;
+}
+.galeria img{
+    height: 150px;
+}
+.footer {
+    background-color:gray
+    color: white;
+    padding: 50px;
+} 
